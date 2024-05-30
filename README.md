@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VaishnaviMankala19.VaishnaviMankala19" />
 
 
 <h1 align="center">Hi 👋, I'm Mankala Vaishnavi</h1>
