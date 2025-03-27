@@ -38,6 +38,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
+<h3 align="left">📊 Check My Leaderboard Stats</h3><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=VaishnaviMankala19" target="_blank">
+    <img src="https://img.shields.io/badge/GSSOC%20Leaderboard-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
  <hr/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
